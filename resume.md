@@ -160,7 +160,7 @@ _09/2006 – 02/2008_
 * MCTS Microsoft .NET Framework 3.5, ASP.NET Application Development in C#
 * MCTS: Web Applications Development with Microsoft .NET Framework 4
 
-[Transcript](https://mcp.microsoft.com/authenticate/validatemcp.aspx)  
+[Transcript](https://mcp.microsoft.com/Anonymous//Transcript/Validate)  
 Transcript ID (1001890)  
 Access Code (edgarshs)
 
