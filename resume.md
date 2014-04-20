@@ -166,8 +166,11 @@ Access Code (edgarshs)
 
 ## Links
 * [Github Profile](https://github.com/LimoWanKenobi)
-* [Personal Blog](http://limotonterias.blogspot.com/)
+* [Personal Blog](http://limowankenobi.github.io/)
 * [Stack Overflow Profile](http://stackoverflow.com/users/149885/limo-wan-kenobi)
+* [TopCoder Profile](http://www.topcoder.com/tc?module=MemberProfile&cr=14930164)
+* [Kaggle Profile](https://www.kaggle.com/users/53603/limo-wan-kenobi)
+* [Linkedin](https://www.linkedin.com/pub/edgar-said-hern%C3%A1ndez-s%C3%A1nchez/16/713/925/en)
 
 
 
