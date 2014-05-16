@@ -3,8 +3,6 @@
 
 ## Personal Details
 __Name:__  Edgar Said Hernandez Sanchez  
-__Nationality:__ Mexican  
-__Address:__ Moissigasse 9/1/1, 1220, Wien, Wien, Austria  
 __Phone:__  _Mobile:_ +43 (1) 676 323 7625  
 __E-mail:__ <edgarshs@live.com.mx>, <limowankenobi@gmail.com>  
 
@@ -64,7 +62,7 @@ _03/2011 – 08/2012_
 
 * Development of an acceptance testing harness for the Invoice Emitter Service. This application load hundreds of petitions from production log files and sends them in several concurrent threads to a service in a staging environment. This application is being used to test the performance of the Service under stress.
 * Architecture and coding of a massive invoice validation client. Grupo Advantage has an Invoice Validation Service and a its clients needed an application to validate thousands of invoices with this service. Part of the architecture of this service was the creation of the API Key component that will be used by all the services of Grupo advantage from now on.
-* Worked on the front end and backend of a web application used to validate XML invoices. 
+* Worked on the front end and backend of a web application used to validate XML invoices.
 * Developed a configuration module that allows taking different paths in the workflow depending of each company that uses the application.
 
 ####Technologies Used
@@ -74,7 +72,7 @@ _03/2011 – 08/2012_
 * Fogbugz
 * Bitbucket
 * Mercurial
-* XML 
+* XML
 * SOAP
 * REST
 * WCF
@@ -105,7 +103,7 @@ _11/2010 – 02/2012_
 __IBM Mexico__  
 _11/2009 – 02/2011_  
 
-* Technical Leader of a team of 5 people in an agile project to correct and complete an ongoing development of an application. My main responsibilities were assisting the project manager in the status meetings, reviewing the code of the team, estimate and decide what work should be done at each of the iterations, coordinate the knowledge transfer, and help in the coding and testing of the requirements. 
+* Technical Leader of a team of 5 people in an agile project to correct and complete an ongoing development of an application. My main responsibilities were assisting the project manager in the status meetings, reviewing the code of the team, estimate and decide what work should be done at each of the iterations, coordinate the knowledge transfer, and help in the coding and testing of the requirements.
 * Team Leader in a project to replace the Business Process Manager (BPM) of the application by a custom BPM to improve performance.
 * Support sales staff in the analysis, architecture and estimation of requirements to make the proposal and quotations. This job was done for a new J2EE spring application, and an ASP .Net application. Both projects were won by IBM.
 
@@ -123,9 +121,9 @@ _11/2009 – 02/2011_
 __[Digipro S.A.](http://www.digipro.com.mx/)__  
 _03/2008 – 11/2009_  
 
-* Developed several of the web controls and web services for the main web application of the company in ASP .Net, AJAX and jQuery. 
+* Developed several of the web controls and web services for the main web application of the company in ASP .Net, AJAX and jQuery.
 * Designed and developed the document visualisation web control for the Application Portal. This is one of the two main user controls of the application. It was designed taking in consideration several security restrictions imposed by the banks.
-* Developed a configuration application for the databases of the main application. These databases are in MS SQL Server 2005 and Oracle 11g. 
+* Developed a configuration application for the databases of the main application. These databases are in MS SQL Server 2005 and Oracle 11g.
 * Responsable of the architecture and design of part of the process and applications for a client that needed massive digitalisation and capture of data.
 
 ####Technologies Used
@@ -171,6 +169,3 @@ Access Code (edgarshs)
 * [TopCoder Profile](http://www.topcoder.com/tc?module=MemberProfile&cr=14930164)
 * [Kaggle Profile](https://www.kaggle.com/users/53603/limo-wan-kenobi)
 * [Linkedin](https://www.linkedin.com/pub/edgar-said-hern%C3%A1ndez-s%C3%A1nchez/16/713/925/en)
-
-
-
