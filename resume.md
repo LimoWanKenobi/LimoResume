@@ -78,7 +78,7 @@ _09/2006 – 02/2008_
 * __.Net__ C#, ASP .Net MVC, WPF, WCF
 * __JavaScript__ jQuery, AngularJs, Vanilla JavaScript
 * __SQL__ MS SQL Server 2005-2012
-* __Languages:__ Ruby, Objective-C, Python, F#, Swift
+* __Additional known programming languages:__ Ruby, Objective-C, Python, F#, Swift
 
 
 ##Achivements
