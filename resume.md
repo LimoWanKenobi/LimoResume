@@ -1,11 +1,6 @@
 # Edgar Said Hernández Sánchez
 
 
-## Personal Details
-__Name:__  Edgar Said Hernandez Sanchez  
-__Phone:__  _Mobile:_ +43 0676 323 7625  
-__E-mail:__ <edgarshs@live.com.mx>, <edhzsz@gmail.com>, <limowankenobi@gmail.com>  
-
 ## Education
 __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__  
 08/2002 – 07/2007 _Guanajuato, Mexico_  
@@ -17,10 +12,9 @@ Truncated in last semester with 90% of completion.
 __[United Nations Office on Drugs and Crime/Conference Management Service/Applications Development Team](https://www.unvienna.org/unov/en/management_cms.html)__  
 _01/2013 – current_  
 
-* Developed a tool in F# to deploy SQL Server Reporting Services report projects to several servers reducing deployment times to the half.
-* Developed a new AngularJS application (<http://myconference.unov.org>) to show integrated UN conferences information gathered automatically from the internal management systems allowing UN delegates to access the information on their mobile devices, access pre-sesion documents before the conference, and reducing printing costs by allowing UN bodies to print only one copy of the documents per delegation.
-* Participated in the sucessfull completion of the 2013 Maintenance and Development Roadmap of two ASP .Net MVC 3 applications that manage the services required for the smooth functioning of UN meetings and conferences all over the globe. 
-* Diagnosed production issues for clients in different geographical and time zone locations (New York, Geneva, Nairobi, Vienna).
+* Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing deployment times to the half.
+* Developed a new AngularJS application (<http://myconference.unov.org>) to show the integrated information of UN's Conferences gathered automatically from the internal management systems; allowing UN delegates to access the information, documents and digital recordings on their mobile devices before and after the conference; and reducing printing costs by allowing UN bodies to print only one copy of the documents per delegation.
+* Participated in the sucessfull completion of the 2013 Maintenance and Development Roadmap of two ASP .Net MVC 3 applications used to manage the services required for the smooth functioning of UN conferences all over the globe. 
 
 
 ### Software Development Engineer
@@ -35,8 +29,8 @@ _08/2012 – 12/2012_
 __[Grupo Advantage](http://www.grupoadvantage.com/)__  
 _03/2011 – 08/2012_  
 
-* Designed and developed a tool to load historical data from production log files and send them in several concurrent threads to a Invoice Emition Service allowing the team to implement regresion and stress test for this service.
-* Designed and developed a thin client for an Invoice Validation Service allowing Grupo Advantage's clients to validate thousands of invoices with this service.
+* Designed and developed a tool to load historical data from production log files and send them in several concurrent threads to an Invoice Emission Service allowing the team to implement regression and stress test for this service.
+* Designed and developed a Thin Client for an Invoice Validation Service helping Grupo Advantage's clients to validate thousands of invoices in minutes instead of days.
 * Designed and developed a component to generate and validate API keys used to connect to the public API of Grupo Advantage.
 * Participated on the development of the front end and backend of a web application used to validate XML invoices.
 
@@ -54,8 +48,8 @@ __IBM Mexico__
 _11/2009 – 02/2011_  
 
 * Led a team of 5 developers and introduced Code Reviews and Test Driven Development methodologies improving the code quality in general.
-* Led a project to replace a vendor Business Process Manager (BPM) by a custom one, unsuccessfully trying to improve the overal performance of the applications using this BPM.
-* Participated in the creation of two sucessful sales projects analysing and estimating the requirements.
+* Led a project to replace a Business Process Manager (BPM) used in an application, from a vendor solution to a custom BPM, unsuccessfully trying to improve the overall performance.
+* Participated in the creation of two successful sales projects analysing and estimating the requirements.
 
 
 ###Analyst Programmer
@@ -71,7 +65,7 @@ __[CIMAT](http://www.cimat.mx/en) Software Development Factory__
 _09/2006 – 02/2008_  
 
 *  Developed an image-based measurement plugin that could be used on static images and videos using Borland C++ Builder 6 and DirectShow.
-* Participated the design of a module for hand writing recognition.
+* Participated in the design of a module for hand writing recognition.
 
 
 ##Achivements
