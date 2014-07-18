@@ -1,5 +1,11 @@
 # Edgar Said Hernández Sánchez
 
+##Sumary
+I'm a fugitive of three Math University Faculties now making a life as a Professional Software Developer, Sr. Procrastinator and Jr. Father.
+
+I have 6+ years of experience developing mostly web applications using C# and javascript.
+
+I love to solve problems and I like to participate in all kind of programming contests.
 
 ## Education
 __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__  
@@ -66,6 +72,13 @@ _09/2006 – 02/2008_
 
 *  Developed an image-based measurement plugin that could be used on static images and videos using Borland C++ Builder 6 and DirectShow.
 * Participated in the design of a module for hand writing recognition.
+
+
+##Technical Skills
+* __.Net__ C#, ASP .Net MVC, WPF, WCF
+* __JavaScript__ jQuery, AngularJs, Vanilla JavaScript
+* __SQL__ MS SQL Server 2005-2012
+* __Languages:__ Ruby, Objective-C, Python, F#, Swift
 
 
 ##Achivements
