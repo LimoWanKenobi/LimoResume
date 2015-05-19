@@ -8,9 +8,13 @@ I have 7+ years of experience developing mostly web applications using C# and ja
 I love to solve problems and I like to participate in all kind of programming contests.
 
 ## Education
+__Universidad Abierta y a Distancia de México (UNADM)__  
+01/2015 - Current _Online_  
+__B.S. Mathematics__. (Lic. en Matemáticas) 
+
 __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__  
 08/2002 – 07/2007 _Guanajuato, Mexico_  
-__Computer science__. (Lic. En Computación)  
+__B.S. Computer science__. (Lic. En Computación)  
 Truncated in last semester with 90% of completion.  
 
 ## Experience
