@@ -3,7 +3,7 @@
 ##Sumary
 I'm a fugitive of three Math University Faculties now making a life as a Professional Software Developer, Sr. Procrastinator and Jr. Father.
 
-I have 6+ years of experience developing mostly web applications using C# and javascript.
+I have 7+ years of experience developing mostly web applications using C# and javascript.
 
 I love to solve problems and I like to participate in all kind of programming contests.
 
@@ -14,13 +14,14 @@ __Computer science__. (Lic. En Computación)
 Truncated in last semester with 90% of completion.  
 
 ## Experience
-###Computer Information Systems Assistant
+### Software Developer (Computer Information Systems Assistant)
 __[United Nations Office on Drugs and Crime/Conference Management Service/Applications Development Team](https://www.unvienna.org/unov/en/management_cms.html)__  
 _01/2013 – current_  
 
-* Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing deployment times to the half.
-* Developed a new AngularJS application (<http://myconference.unov.org>) to show the integrated information of UN's Conferences gathered automatically from the internal management systems; allowing UN delegates to access the information, documents and digital recordings on their mobile devices before and after the conference; and reducing printing costs by allowing UN bodies to print only one copy of the documents per delegation.
-* Participated in the sucessfull completion of the 2013 Maintenance and Development Roadmap of two ASP .Net MVC 3 applications used to manage the services required for the smooth functioning of UN conferences all over the globe. 
+* Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
+* Participated in the development of a new AngularJS application (<http://myconference.unov.org>) to show the integrated information of UN's Conferences gathered automatically from the internal management systems allowing UN delegates to access the information, documents and digital recordings on their mobile devices before and after the conference.
+* Maintenance and Development of new features for two ASP .Net MVC 3 applications used to manage the services required for the smooth functioning of UN conferences all over the globe.
+* Currently I am part of a team developing a "Computer Aided Translation" tool.
 
 
 ### Software Development Engineer
@@ -50,7 +51,7 @@ _11/2010 – 02/2012_
 
 
 ###Technical Leader / Technical Specialist (Pre-sales)
-__IBM Mexico__  
+__IDS Comercial - Client:IBM Mexico__  
 _11/2009 – 02/2011_  
 
 * Led a team of 5 developers and introduced Code Reviews and Test Driven Development methodologies improving the code quality in general.
@@ -78,12 +79,12 @@ _09/2006 – 02/2008_
 * __.Net__ C#, ASP .Net MVC, WPF, WCF
 * __JavaScript__ jQuery, AngularJs, Vanilla JavaScript
 * __SQL__ MS SQL Server 2005-2012
-* __Additional known programming languages:__ Ruby, Objective-C, Python, F#, Swift
+* __Additional known (basic level) programming languages:__ Ruby, Objective-C, Python, F#, Swift
 
 
 ##Achivements
 * Finalist in Google Code Jam Latinamerica 2007
-* First and second place in several Component Development Contests in TopCoder. [Profile](http://www.topcoder.com/tc?module=MemberProfile&cr=14930164)
+* First and second place in several Component Development Contests in TopCoder. [Profile](http://www.topcoder.com/member-profile/limowankenobi/)
 
 ##Certifications
 * MCTS Microsoft .NET Framework 3.5, ASP.NET Application Development in C#
@@ -97,6 +98,5 @@ Access Code (edgarshs)
 * [Github Profile](https://github.com/LimoWanKenobi)
 * [Personal Blog](http://limowankenobi.github.io/)
 * [Stack Overflow Profile](http://stackoverflow.com/users/149885/limo-wan-kenobi)
-* [TopCoder Profile](http://www.topcoder.com/tc?module=MemberProfile&cr=14930164)
-* [Kaggle Profile](https://www.kaggle.com/users/53603/limo-wan-kenobi)
+* [TopCoder Profile](http://www.topcoder.com/member-profile/limowankenobi/)
 * [Linkedin](https://www.linkedin.com/pub/edgar-said-hern%C3%A1ndez-s%C3%A1nchez/16/713/925/en)
