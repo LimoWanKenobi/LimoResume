@@ -91,7 +91,7 @@ Technical Skills
 * __Additional known (basic level) programming languages:__ Ruby, Objective-C, Python, F#, Swift
 
 
-Achivements
+Achievements
 ----------
 * Finalist in Google Code Jam Latinamerica 2007
 * First and second place in several Component Development Contests in TopCoder. [Profile](http://www.topcoder.com/member-profile/limowankenobi/)
@@ -120,3 +120,4 @@ Links
 * [Stack Overflow Profile](http://stackoverflow.com/users/149885/limo-wan-kenobi)
 * [TopCoder Profile](http://www.topcoder.com/member-profile/limowankenobi/)
 * [Linkedin](https://www.linkedin.com/pub/edgar-said-hern%C3%A1ndez-s%C3%A1nchez/16/713/925/en)
+* [Twitter](https://twitter.com/edhzsz)
