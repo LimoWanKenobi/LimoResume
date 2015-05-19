@@ -1,13 +1,16 @@
-# Edgar Said Hernández Sánchez
+Edgar Said Hernández Sánchez
+============
 
-##Sumary
+Sumary
+----------
 I'm a fugitive of three Math University Faculties now making a life as a Professional Software Developer, Sr. Procrastinator and Jr. Father.
 
 I have 7+ years of experience developing mostly web applications using C# and javascript.
 
 I love to solve problems and I like to participate in all kind of programming contests.
 
-## Education
+Education
+----------
 __Universidad Abierta y a Distancia de México (UNADM)__  
 01/2015 - Current _Online_  
 __B.S. Mathematics__. (Lic. en Matemáticas) 
@@ -17,7 +20,8 @@ __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__
 __B.S. Computer science__. (Lic. En Computación)  
 Truncated in last semester with 90% of completion.  
 
-## Experience
+Experience
+----------
 ### Software Developer (Computer Information Systems Assistant)
 __[United Nations Office on Drugs and Crime/Conference Management Service/Applications Development Team](https://www.unvienna.org/unov/en/management_cms.html)__  
 _01/2013 – current_  
@@ -79,18 +83,29 @@ _09/2006 – 02/2008_
 * Participated in the design of a module for hand writing recognition.
 
 
-##Technical Skills
+Technical Skills
+----------
 * __.Net__ C#, ASP .Net MVC, WPF, WCF
 * __JavaScript__ jQuery, AngularJs, Vanilla JavaScript
 * __SQL__ MS SQL Server 2005-2012
 * __Additional known (basic level) programming languages:__ Ruby, Objective-C, Python, F#, Swift
 
 
-##Achivements
+Achivements
+----------
 * Finalist in Google Code Jam Latinamerica 2007
 * First and second place in several Component Development Contests in TopCoder. [Profile](http://www.topcoder.com/member-profile/limowankenobi/)
 
-##Certifications
+Projects
+----------
++###Trainer/Leader
++__Guanjuato State Informatics Olympiad (OIEG)__
++_November 2004 - December 2007_
++The OIEG is an independent non-profit organisation whose main activity is the organisation of the Informatics Olympiad at the State level in Guanajuato Mexico. Hosted under funding from the Universidad de Guanajuato and the Centre for Mathematical Research (CIMAT) and composed of about 10 voluntary trainers and advisors. Each year, the OIEG organises a programming contest over many high schools in the state to select a team of the best students that will represent the State in the National competition. Guanajuato's team has obtained the overall first place nationally 9 of the last 10 years, including twice while I was a trainer and advisor.
+
+
+Certifications
+----------
 * MCTS Microsoft .NET Framework 3.5, ASP.NET Application Development in C#
 * MCTS: Web Applications Development with Microsoft .NET Framework 4
 
@@ -98,7 +113,8 @@ _09/2006 – 02/2008_
 Transcript ID (1001890)  
 Access Code (edgarshs)
 
-## Links
+Links
+----------
 * [Github Profile](https://github.com/LimoWanKenobi)
 * [Personal Blog](http://limowankenobi.github.io/)
 * [Stack Overflow Profile](http://stackoverflow.com/users/149885/limo-wan-kenobi)
