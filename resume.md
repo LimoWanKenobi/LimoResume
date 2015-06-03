@@ -1,7 +1,7 @@
 Edgar Said Hernández Sánchez
 ============
 
-Sumary
+Summary
 ----------
 I'm a fugitive of three Math University Faculties now making a life as a Professional Software Developer, Sr. Procrastinator and Jr. Father.
 
@@ -12,8 +12,9 @@ I love to solve problems and I like to participate in all kind of programming co
 Education
 ----------
 __Universidad Abierta y a Distancia de México (UNADM)__  
-01/2015 - Current _Online_  
-__B.S. Mathematics__. (Lic. en Matemáticas) 
+01/2015 - Current  
+__B.S. Mathematics__. (Lic. en Matemáticas)  
+I am currently a student at the national online University of Mexico.
 
 __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__  
 08/2002 – 07/2007 _Guanajuato, Mexico_  
@@ -27,9 +28,9 @@ __[United Nations Office on Drugs and Crime/Conference Management Service/Applic
 _01/2013 – current_  
 
 * Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
-* Participated in the development of a new AngularJS application (<http://myconference.unov.org>) to show the integrated information of UN's Conferences gathered automatically from the internal management systems allowing UN delegates to access the information, documents and digital recordings on their mobile devices before and after the conference.
-* Maintenance and Development of new features for two ASP .Net MVC 3 applications used to manage the services required for the smooth functioning of UN conferences all over the globe.
-* Currently I am part of a team developing a "Computer Aided Translation" tool.
+* Participated in the development of a new AngularJS application ([VIC Online](http://myconference.unov.org)) to show the integrated information of UN's Conferences allowing UN delegates to access the documents and digital recordings on their mobile devices before and after the conference. All information is gathered automatically from the internal management systems.
+* Participated in the maintenance and development of new features for two ASP .Net MVC 3 applications used to manage the services required for the smooth functioning of UN conferences all over the globe.
+* Currently I am part of a team developing a "Computer Aided Translation" tool using Lucene.Net.
 
 
 ### Software Development Engineer
@@ -71,7 +72,7 @@ _11/2009 – 02/2011_
 __[Digipro S.A.](http://www.digipro.com.mx/)__  
 _03/2008 – 11/2009_  
 
-* Designed and developed the document visualisation web control for the Application Portal taking in consideration all the security restrictions imposed by the banks.
+* Designed and developed the document visualization web control for a Software as a Service application taking in consideration all the security restrictions imposed by the banks.
 * Developed a tool to configure new instances of the main application reducing the configuration time of a project from 4 days to 4 hours.
 
 
@@ -101,7 +102,7 @@ Projects
 +###Trainer/Leader
 +__Guanjuato State Informatics Olympiad (OIEG)__
 +_November 2004 - December 2007_
-+The OIEG is an independent non-profit organisation whose main activity is the organisation of the Informatics Olympiad at the State level in Guanajuato Mexico. Hosted under funding from the Universidad de Guanajuato and the Centre for Mathematical Research (CIMAT) and composed of about 10 voluntary trainers and advisors. Each year, the OIEG organises a programming contest over many high schools in the state to select a team of the best students that will represent the State in the National competition. Guanajuato's team has obtained the overall first place nationally 9 of the last 10 years, including twice while I was a trainer and advisor.
++The OIEG is an independent non-profit organization whose main activity is the organization of the Informatics Olympiad at the State level in Guanajuato Mexico. Hosted under funding from the Universidad de Guanajuato and the Centre for Mathematical Research (CIMAT) and composed of about 10 voluntary trainers and advisors. Each year, the OIEG organizes a programming contest over many high schools in the state to select a team of the best students that will represent the State in the National competition. Guanajuato's team has obtained the overall first place nationally 9 of the last 10 years, including twice while I was a trainer and advisor.
 
 
 Certifications
