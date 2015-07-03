@@ -3,11 +3,13 @@ Edgar Said Hernández Sánchez
 
 Summary
 ----------
-I'm a fugitive of three Math University Faculties now making a life as a Professional Software Developer, Sr. Procrastinator and Jr. Father.
+Professional Software Developer, Sr. Procrastinator and Jr. Father.
 
-I have 7+ years of experience developing mostly web applications using C# and javascript.
+I have 7+ years of experience developing mostly web applications using C# and JavaScript, with a little of Ruby, F#, Python and C++ on the mix. I have been working always as a Full Stack Developer so I have the same years of inexperience on Front-end as in Back-end.
 
-I love to solve problems and I like to participate in all kind of programming contests.
+I am sure that I have learnt a lot of things all this years but I am not able to articulate exactly what... that much I have learnt.
+
+I love to solve problems and I like to participate in all kind of programming contests when I have time.
 
 Education
 ----------
