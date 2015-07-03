@@ -99,10 +99,10 @@ Achievements
 
 Projects
 ----------
-+###Trainer/Leader
-+__Guanjuato State Informatics Olympiad (OIEG)__
-+_November 2004 - December 2007_
-+The OIEG is an independent non-profit organization whose main activity is the organization of the Informatics Olympiad at the State level in Guanajuato Mexico. Hosted under funding from the Universidad de Guanajuato and the Centre for Mathematical Research (CIMAT) and composed of about 10 voluntary trainers and advisors. Each year, the OIEG organizes a programming contest over many high schools in the state to select a team of the best students that will represent the State in the National competition. Guanajuato's team has obtained the overall first place nationally 9 of the last 10 years, including twice while I was a trainer and advisor.
+###Trainer/Leader
+__Guanjuato State Informatics Olympiad (OIEG)__
+_November 2004 - December 2007_
+The OIEG is an independent non-profit organization whose main activity is the organization of the Informatics Olympiad at the State level in Guanajuato Mexico. Hosted under funding from the Universidad de Guanajuato and the Centre for Mathematical Research (CIMAT) and composed of about 10 voluntary trainers and advisors. Each year, the OIEG organizes a programming contest over many high schools in the state to select a team of the best students that will represent the State in the National competition. Guanajuato's team has obtained the overall first place nationally 9 of the last 10 years, including twice while I was a trainer and advisor.
 
 
 Certifications
