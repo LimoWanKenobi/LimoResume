@@ -60,7 +60,7 @@ _11/2010 – 02/2012_
 
 
 ###Technical Leader / Technical Specialist (Pre-sales)
-__IDS Comercial - Client: IBM Mexico__  
+__[IDS Comercial](http://www.ids.com.mx/) - Client: IBM Mexico__  
 _México City, México_  
 _11/2009 – 02/2011_  
 
