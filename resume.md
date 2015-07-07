@@ -24,10 +24,10 @@ __[United Nations Office on Drugs and Crime/Conference Management Service/Applic
 _Vienna, Austria_  
 _01/2013 – current_  
 
-* Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
-* Participated in the development of a new AngularJS application ([VIC Online](http://myconference.unov.org)) to show the integrated information of UN's Conferences allowing UN delegates to access the documents and digital recordings on their mobile devices before and after the conference. All information is gathered automatically from the internal management systems.
+* Developed a tool in F# to deploy multiple _SQL Server Reporting Services_ (SSRS) projects to multiple SSRS servers reducing the deployment time and allowing continous integration and automatic deployment with Octopus Deploy.
+* Participated in the development of a new AngularJS application ([VIC Online](http://myconference.unov.org)) to show the integrated information of UN's Conferences. This application allows UN delegates and participants to access the conference information, documentation and digital audio on their mobile devices before, during and after the conference. All information is gathered automatically from the internal management systems.
 * Participated in the maintenance and development of new features for two ASP .Net MVC 3 applications used to manage the services required for the smooth functioning of UN conferences all over the globe.
-* Currently I am part of a team developing a "Computer Aided Translation" tool using Lucene.Net.
+* Currently I am part of a team developing a _Computer Aided Translation_ tool that helps UN Translators with suggestions from different sources including Statistical Machine Translation, Terminology, and similar text found on historical translated documents.
 
 
 ### Software Development Engineer
@@ -35,7 +35,7 @@ __[Knowtion](http://www.knowtion.biz/)__
 _México City, México_  
 _08/2012 – 12/2012_
 
-* Development of a web application to coordinate and monitor the communication between several RabbitMQ instances.
+* Developed a web application to coordinate and monitor the communication between several RabbitMQ instances.
 * Participated in the maintenance and development of new functionalities for a C#/WPF application.
 
 
