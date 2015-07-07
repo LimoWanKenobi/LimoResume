@@ -3,20 +3,14 @@ Edgar Said Hernández Sánchez
 
 Summary
 ----------
-Professional Software Developer, Sr. Procrastinator and Jr. Father.
-
-I have 7+ years of experience developing mostly web applications using C# and JavaScript, with a little of Ruby, F#, Python and C++ on the mix. I have been working always as a Full Stack Developer so I have the same years of inexperience on Front-end as in Back-end.
-
-I am sure that I have learnt a lot of things all this years but I am not able to articulate exactly what... that much I have learnt.
-
-I love to solve problems and I like to participate in all kind of programming contests when I have time.
+Professional Full Stack Software Developer with 8+ years of experience developing web and desktop applications using C# and JavaScript with a little of Ruby, F#, Python and C++ on the mix. Experienced working in multinational and distributed teams provinding service for clients all around the globe.
 
 Education
 ----------
 __Universidad Abierta y a Distancia de México (UNADM)__  
 01/2015 - Current  
 __B.S. Mathematics__. (Lic. en Matemáticas)  
-I am currently a student at the national online University of Mexico.
+I am currently a second semester student at the National Online University of Mexico.
 
 __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__  
 08/2002 – 07/2007 _Guanajuato, Mexico_  
@@ -27,6 +21,7 @@ Experience
 ----------
 ### Software Developer (Computer Information Systems Assistant)
 __[United Nations Office on Drugs and Crime/Conference Management Service/Applications Development Team](https://www.unvienna.org/unov/en/management_cms.html)__  
+_Vienna, Austria_  
 _01/2013 – current_  
 
 * Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
@@ -37,14 +32,16 @@ _01/2013 – current_
 
 ### Software Development Engineer
 __[Knowtion](http://www.knowtion.biz/)__  
+_México City, México_  
 _08/2012 – 12/2012_
 
-* Development of a web application to administrate communication between several RabbitMQ instances.
+* Development of a web application to coordinate and monitor the communication between several RabbitMQ instances.
 * Participated in the maintenance and development of new functionalities for a C#/WPF application.
 
 
 ###Sr. Software Development Engineer
 __[Grupo Advantage](http://www.grupoadvantage.com/)__  
+_México City, México_  
 _03/2011 – 08/2012_  
 
 * Designed and developed a tool to load historical data from production log files and send them in several concurrent threads to an Invoice Emission Service allowing the team to implement regression and stress test for this service.
@@ -55,6 +52,7 @@ _03/2011 – 08/2012_
 
 ###Lead Developer / Cofounder
 __Corporación Augures__  
+_México City, México_  
 _11/2010 – 02/2012_  
 
 * Responsible for the technical decisions concerning the development tools, databases, and deployment environments for the company applications.
@@ -63,6 +61,7 @@ _11/2010 – 02/2012_
 
 ###Technical Leader / Technical Specialist (Pre-sales)
 __IDS Comercial - Client:IBM Mexico__  
+_México City, México_  
 _11/2009 – 02/2011_  
 
 * Led a team of 5 developers and introduced Code Reviews and Test Driven Development methodologies improving the code quality in general.
@@ -72,17 +71,19 @@ _11/2009 – 02/2011_
 
 ###Analyst Programmer
 __[Digipro S.A.](http://www.digipro.com.mx/)__  
+_México City, México_  
 _03/2008 – 11/2009_  
 
 * Designed and developed the document visualization web control for a Software as a Service application taking in consideration all the security restrictions imposed by the banks.
-* Developed a tool to configure new instances of the main application reducing the configuration time of a project from 4 days to 4 hours.
+* Developed a tool to provision new instances of the main application, reducing the configuration time of a project from 4 days to 4 hours.
 
 
 ###Software Developer
 __[CIMAT](http://www.cimat.mx/en) Software Development Factory__  
+_Guanajuato, México_  
 _09/2006 – 02/2008_  
 
-*  Developed an image-based measurement plugin that could be used on static images and videos using Borland C++ Builder 6 and DirectShow.
+*  Developed an image-based measurement plugin, using Borland C++ Builder 6 and DirectShow, that could be used on static images and videos.
 * Participated in the design of a module for hand writing recognition.
 
 
