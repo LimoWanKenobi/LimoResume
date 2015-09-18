@@ -38,7 +38,7 @@ _México City, México_
 _08/2012 – 12/2012_  
 _Technologies: wpf, mvvm, sql-server, wcf, linq-to-sql, rake, linq, nhibernate, rabbitmq_ 
 
-I worked for a few months with an incredible team that introduced me to functional programming developing new features for a health care application that handles the patients medical records.
+I worked for a few months with an incredible team that introduced me to functional programming developing new features for a health care application that handles the patients’ medical records.
 
 * Developed a web application to administrate communication between several RabbitMQ instances that were used to synchronize the patients information between hospitals and clinics.
 * Participated in the maintenance and development of new functionality for a C#/WPF application.
