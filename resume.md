@@ -3,7 +3,11 @@ Edgar Said Hernández Sánchez
 
 Summary
 ----------
-Professional Full Stack Software Developer with 8+ years of experience developing web and desktop applications using C# and JavaScript with a little of Ruby, F#, Python and C++ on the mix. Experienced working in multinational and distributed teams providing service for clients all around the globe.
+I am a Jr. Father, a Professional Software Developer, a Machine Learning aficionado, and a retired video games player.
+
+I have 7+ years of experience developing (mostly) web applications using C# and JavaScript, with a little of Ruby, F#, Python and C++ on the mix. I have been working always as a Full Stack Developer so I have the same years of experience on Front end as in Back-end. I am experienced working in multinational and distributed teams providing service for clients all around the globe.
+
+I love to solve problems and I like to participate in all kind of programming contests when I have time.
 
 Education
 ----------
@@ -29,7 +33,7 @@ Currently I am part of a team developing a Computer Aided Translation tool that 
 
 * Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
 * Participated in the development of a new AngularJS application ([VIC Online](http://myconference.unov.org)) to show the integrated information of UN's Conferences allowing UN delegates to access the documents and digital recordings on their mobile devices before and after the conference. All information is gathered automatically from the internal management systems.
-* Optimized Entity Framework queries reducing database hits from more than 10000 per second to less than 200 per second.
+* Working on optimize Entity Framework queries with the objective of reducing database hits from more than 10000 per second to less than 200 per second.
 
 
 ### Software Development Engineer
@@ -144,6 +148,7 @@ Links
 * [Github Profile](https://github.com/LimoWanKenobi)
 * [Personal Blog](http://limowankenobi.github.io/)
 * [Stack Overflow Profile](http://stackoverflow.com/users/149885/limo-wan-kenobi)
+* [Stack Overflow Careers](http://careers.stackoverflow.com/edgarshs)
 * [TopCoder Profile](http://www.topcoder.com/member-profile/limowankenobi/)
 * [Linkedin](https://www.linkedin.com/pub/edgar-said-hern%C3%A1ndez-s%C3%A1nchez/16/713/925/en)
 * [Twitter](https://twitter.com/edhzsz)
