@@ -11,9 +11,9 @@ I love to solve problems and I like to participate in all kind of programming co
 
 Education
 ----------
-__UDACITY__
-11/2015 - Current
-__Machine Learning Nano Degree__
+__[UDACITY](https://www.udacity.com)__  
+11/2015 - Current  
+__[Machine Learning Nano Degree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)__  
 * Working on my project to evaluate the performance of a Machine Learning Algorithm that predicts prices of Houses on Boston.
 
 __Universidad Abierta y a Distancia de México (UNADM)__  
