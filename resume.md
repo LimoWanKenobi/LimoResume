@@ -11,6 +11,11 @@ I love to solve problems and I like to participate in all kind of programming co
 
 Education
 ----------
+__UDACITY__
+11/2015 - Current
+__Machine Learning Nano Degree__
+* Working on my project to evaluate the performance of a Machine Learning Algorithm that predicts prices of Houses on Boston.
+
 __Universidad Abierta y a Distancia de México (UNADM)__  
 01/2015 - Current  
 __B.S. Mathematics__. (Lic. en Matemáticas)  
@@ -32,9 +37,11 @@ _Technologies: c#, asp.net-mvc, javascript, angularjs, redis, f#, lucene.net_
 Currently I am part of a team developing a Computer Aided Translation tool that helps UN Translators with suggestions from different sources including Statistical Machine Translation, Terminology, and similar text found on historical translated documents.
 
 * Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
-* Participated in the development of a new AngularJS application ([VIC Online](http://myconference.unov.org)) to show the integrated information of UN's Conferences allowing UN delegates to access the documents and digital recordings on their mobile devices before and after the conference. All information is gathered automatically from the internal management systems.
+* Developed a new AngularJS application (VIC Online) to show the integrated information of UN's Conferences allowing UN delegates to access the documents and digital recordings on their mobile devices before and after the conference.
 * Migrated JavaScript files belonging to the translation tool UI to TypeScript 1.5
-* Working on the optimisation of Entity Framework queries with the objective of reducing database hits from more than 10000 per second to less than 200 per second.
+* Optimised Entity Framework queries with the objective of reducing database hits and memory footprint reducing both in more than 80%.
+*  Stabilised and improved the pipeline (in Perl and Bash scripts) for training language models for Moses-SMT.
+* Improved the code that handles the import/export of text from/to Word documents allowing the application to correctly handle footnotes and basic formatting.
 
 
 ### Software Development Engineer
@@ -68,8 +75,7 @@ _México City, México_
 _11/2010 – 02/2012_  
 _Technologies: c#, wpf, xaml, wcf, xml, nunit, fogbugz, mercurial, asp.net-mvc, linq, matlab_ 
 
-* Responsible for the technical decisions concerning the development tools, databases, and deployment environments for the company applications.
-* Responsible for the company website.
+* Responsible for the technical decisions concerning the development tools, databases, and deployment environments for the company application and  the company website.
 * Designed and developed a Client-Server application to calculate the assignment of assets in portfolios using the Mean-Variance Model of Harry Markowitz in a dynamic way. Each user generated a portfolio selecting up to 100 assets and the application gathered, every minute, prices for them and recalculated the optimal assignment of weights for each asset in the portfolio.
 
 
