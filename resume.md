@@ -17,7 +17,7 @@ __[Machine Learning Nano Degree](https://www.udacity.com/course/machine-learning
 * Completed a project to evaluate the performance of a Machine Learning Algorithm that predicts prices of Houses on Boston.
 * Working on a Classification project that implements a student intervention system to identify students in risk of not passing its high school final exam based on information captured from student data management systems.
 
-__Universidad Abierta y a Distancia de México (UNADM)__  
+__[Universidad Abierta y a Distancia de México (UNADM)](http://www.unadmexico.mx/portal/)__  
 01/2015 - Current  
 __B.S. Mathematics__. (Lic. en Matemáticas)  
 I am currently a third semester student at the National Online University of Mexico.
