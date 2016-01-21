@@ -5,7 +5,7 @@ Summary
 ----------
 I am a Jr. Father, a Professional Software Developer, a Machine Learning aficionado, and a retired video games player.
 
-I have 8+ years of experience developing (mostly) web applications using C# and JavaScript, with a little of Ruby, F#, Python and C++ on the mix. I have been working always as a Full Stack Developer so I have the same years of experience on Front end as in Back-end. I am experienced working in multinational and distributed teams providing service for clients all around the globe.
+I have 9+ years of experience developing (mostly) web applications using C# and JavaScript, with a little of Ruby, F#, Python and C++ on the mix. I have been working always as a Full Stack Developer so I have the same years of experience on Front-end as in Back-end. I am experienced working in multinational and distributed teams providing service for clients all around the globe.
 
 I love to solve problems and I like to participate in all kind of programming contests when I have time.
 
@@ -14,12 +14,13 @@ Education
 __[UDACITY](https://www.udacity.com)__  
 11/2015 - Current  
 __[Machine Learning Nano Degree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)__  
-* Working on my project to evaluate the performance of a Machine Learning Algorithm that predicts prices of Houses on Boston.
+* Completed a project to evaluate the performance of a Machine Learning Algorithm that predicts prices of Houses on Boston.
+* Working on a Classification project that implements a student intervention system to identify students in risk of not passing its high school final exam based on information captured from student data management systems.
 
 __Universidad Abierta y a Distancia de México (UNADM)__  
 01/2015 - Current  
 __B.S. Mathematics__. (Lic. en Matemáticas)  
-I am currently a second semester student at the National Online University of Mexico.
+I am currently a third semester student at the National Online University of Mexico.
 
 __Facultad de Matemáticas de la Universidad de Guanajuato. (CIMAT)__  
 08/2002 – 07/2007 _Guanajuato, Mexico_  
@@ -34,15 +35,14 @@ _Vienna, Austria_
 _01/2013 – current_  
 _Technologies: c#, asp.net-mvc, javascript, angularjs, redis, f#, lucene.net_ 
 
-Currently I am part of a team developing a Computer Aided Translation tool that helps UN Translators with suggestions from different sources including Statistical Machine Translation, Terminology, and similar text found on historical translated documents.
+Currently I am part of a team developing a Computer Aided Translation (CAT) tool that helps UN Translators to translate documents into 6 languages with suggestions from different sources including Statistical Machine Translation, a Terminology database, and similar text found on historical translated documents.
 
 * Developed a tool in F# to deploy several report projects to several SQL Server Reporting Services servers reducing the deployment time and allowing CI and automatic deployment with Octopus Deploy.
 * Developed a new AngularJS application (VIC Online) to show the integrated information of UN's Conferences allowing UN delegates to access the documents and digital recordings on their mobile devices before and after the conference.
-* Migrated JavaScript files belonging to the translation tool UI to TypeScript 1.5
 * Optimised Entity Framework queries with the objective of reducing database hits and memory footprint reducing both in more than 80%.
-*  Stabilised and improved the pipeline (in Perl and Bash scripts) for training language models for Moses-SMT.
-* Improved the code that handles the import/export of text from/to Word documents allowing the application to correctly handle footnotes and basic formatting.
-
+*  Stabilised and improved the pipeline (in Perl and Bash scripts) for training Moses-SMT language models used in the TAPTA4UN project.
+* Improved the library that handles the import/export of text from/to Word documents allowing the application to correctly import the text from Word documents and export the text translation without losing the document format. 
+* Implemented a new version of the document symbol recognition library used to detect appearances of UN document symbols in text, improving the detection and correct generation of links to the documents.
 
 ### Software Development Engineer
 __[Knowtion](http://www.knowtion.biz/)__  
@@ -50,9 +50,9 @@ _México City, México_
 _08/2012 – 12/2012_  
 _Technologies: wpf, mvvm, sql-server, wcf, linq-to-sql, rake, linq, nhibernate, rabbitmq_ 
 
-I worked for a few months with an incredible team that introduced me to functional programming developing new features for a health care application that handles the patients’ medical records.
+I worked for a few months with an incredible team that introduced me to functional programming developing new features for a healthcare application that handles the patients’ medical records.
 
-* Developed a web application to administrate communication between several RabbitMQ instances that were used to synchronize the patients information between hospitals and clinics.
+* Developed a web application to administrate communication between several RabbitMQ instances that were used to synchronize the patient's information between hospitals and clinics.
 * Participated in the maintenance and development of new functionality for a C#/WPF application.
 * Diagnosed and fixed WCF performance issues due to bad handling and incorrect disposing of connections.
 
@@ -66,7 +66,7 @@ _Technologies: asp.net, c#, sql-server, jquery, ajax, visual-studio, mercurial, 
 * Designed and developed a tool to load historical data from production log files and send them in several concurrent threads to an Invoice Emission Service allowing the team to implement regression and stress test for this service.
 * Designed and developed a Thin Client for an Invoice Validation Service helping Grupo Advantage's clients to validate thousands of invoices in minutes instead of days.
 * Designed and developed a component to generate and validate API keys used to connect to the public API of Grupo Advantage.
-* Participated on the development of the front end and backend of a web application used to validate XML invoices.
+* Participated on the development of the frontend and backend of a web application used to validate XML invoices.
 
 
 ###Lead Developer / Cofounder
@@ -96,11 +96,11 @@ I was assigned as a Team Leader to an IBM project for Metlife. After this projec
 __[Digipro S.A.](http://www.digipro.com.mx/)__  
 _México City, México_  
 _03/2008 – 11/2009_  
-_Technologies: c#, vb.net, asp.net, webservices, sql-server, jquery, ajax, oracle11g, image-compression_ 
+_Technologies: c#, vb.net, asp.net, web services, sql-server, jquery, ajax, oracle11g, image-compression_ 
 
-In Digipro I worked developing applications for digitalization, storage and retrieval of paper documents. The main application can be customized to the document types, workflow and brand of the different clients.
+In Digipro I worked developing applications for digitization, storage and retrieval of paper documents. The main application can be customized to the document types, workflow and brand of the different clients.
 
-* Designed and developed the document visualization web control for digitalized document images stored in an encrypted repository. This control has to prevent (as much as possible) creating copies of the documents as they contain sensitive information. Images of different sizes where created on the fly to be able to zoom and pan without aliasing.
+* Designed and developed the document visualization web control for digitalized document images stored in an encrypted repository. This control has to prevent (as much as possible) creating copies of the documents as they contain sensitive information. Images of different sizes were created on the fly to be able to zoom and pan without aliasing.
 * Developed a tool to provision new instances of the main application reducing the configuration time of a project (document types and workflow) from 4 days to 4 hours.
 * Analyzed the business requirements of two clients to define the document types, workflow and customization required.
 * Lead the development of custom features, provision and deployment on premises for two clients.
@@ -112,11 +112,11 @@ _Guanajuato, México_
 _09/2006 – 02/2008_  
 _Technologies: c++builder, directshow, matlab_ 
 
-I worked on a project aimed to develop an inexpensive electronic whiteboard using lasers (as chalks), glass (as the drawing surface) a projector and web cams (to recognize the laser position). A client application was developed that could connect to a whiteboard server and receive the whiteboard events and audio to sync a local read-only version of the whiteboard.
+I worked on a project aimed to develop an inexpensive electronic whiteboard using lasers (as chalks), glass (as the drawing surface) a projector and webcams (to recognize the laser position). A client application was developed that could connect to a whiteboard server and receive the whiteboard events and audio to sync a local read-only version of the whiteboard.
 
 * Developed the image and video plugin that loads and renders images and videos and allows to write on top of them.
 * Developed an image-based measurement plugin that could be used on static images and videos.
-* Participated in the design of a module for hand writing recognition.
+* Participated in the design of a module for handwriting recognition.
 * Participated on the development of modules for rendering, a matlab bridge, and the client application.
 
 
@@ -132,13 +132,6 @@ Achievements
 ----------
 * Finalist in Google Code Jam Latinamerica 2007
 * First and second place in several Component Development Contests in TopCoder. [Profile](http://www.topcoder.com/member-profile/limowankenobi/)
-
-Projects
-----------
-###Trainer/Leader
-__Guanajuato State Informatics Olympiad (OIEG)__
-_November 2004 - December 2007_
-The OIEG is an independent non-profit organization whose main activity is the organization of the Informatics Olympiad at the State level in Guanajuato Mexico. Hosted under funding from the Universidad de Guanajuato and the Centre for Mathematical Research (CIMAT) and composed of about 10 voluntary trainers and advisors. Each year, the OIEG organizes a programming contest over many high schools in the state to select a team of the best students that will represent the State in the National competition. Guanajuato's team has obtained the overall first place nationally 9 of the last 10 years, including twice while I was a trainer and advisor.
 
 
 Certifications
